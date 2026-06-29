@@ -1,113 +1,158 @@
 # Hi, I'm Anjali Bhogireddy 👋
 
-## Software Engineer | Java Full Stack Developer
+### Software Engineer | Java | Spring Boot | Microservices | AWS | React
 
-Software Engineer with 4+ years of experience designing, developing, and deploying scalable enterprise applications using Java, Spring Boot, Microservices, React, AWS, and cloud-native technologies.
-
-Passionate about building secure, high-performance distributed systems, modernizing legacy applications, and delivering reliable cloud solutions.
+Welcome to my GitHub profile! I am a Software Engineer with 5+ years of experience building scalable enterprise applications using Java, Spring Boot, Microservices, REST APIs, React, AWS, SQL, and cloud-native technologies. I enjoy designing reliable backend systems, solving complex business problems, and building software that is secure, scalable, and maintainable.
 
 ---
 
-## 💻 Technical Skills
+# 👩‍💻 About Me
+
+* 💼 5+ years of professional software development experience
+* ☕ Specialized in Java, Spring Boot, Microservices, and REST APIs
+* ☁️ Experience building cloud-native applications on AWS
+* ⚛️ Frontend development experience with React
+* 🚀 Passionate about system design, backend engineering, and scalable architectures
+* 🌎 Currently seeking Full-Time Software Engineer opportunities (H1B Transfer)
+
+---
+
+# 🛠️ Technical Skills
+
+### Languages
+
+* Java
+* Python
+* JavaScript
+* TypeScript
+* SQL
 
 ### Backend
-- Java
-- Spring Boot
-- Spring Security
-- Hibernate
-- REST APIs
-- Microservices
-- Python
-- C++
+
+* Spring Boot
+* Spring MVC
+* Spring Security
+* Spring Data JPA
+* Hibernate
+* REST APIs
+* Microservices
 
 ### Frontend
-- React
-- Angular
-- JavaScript
-- TypeScript
-- HTML5
-- CSS3
+
+* React
+* Angular
+* HTML5
+* CSS3
+* Bootstrap
 
 ### Cloud & DevOps
-- AWS (EC2, S3, RDS, Lambda, CloudFormation)
-- Azure
-- Docker
-- Kubernetes
-- Jenkins
-- GitHub Actions
-- Terraform
+
+* AWS
+* Docker
+* Kubernetes
+* Jenkins
+* GitHub Actions
+* Maven
+* Git
 
 ### Databases
-- PostgreSQL
-- MySQL
-- MongoDB
 
-### Monitoring & Observability
-- Prometheus
-- Grafana
-- ELK Stack
-- AI-Driven Anomaly Detection
-
-### Security
-- OAuth 2.0
-- JWT
-- RBAC
-- API Security
+* PostgreSQL
+* MySQL
+* MongoDB
+* H2 Database
 
 ---
 
-## 🚀 Professional Experience
+# 🚀 Featured Projects
 
-### Tata Consultancy Services (TCS)
-**Software Engineer | Nov 2024 - Present**
+## 🛡️ Insurance Quote Management System
 
-- Developed scalable Java and Spring Boot enterprise applications.
-- Designed cloud-native microservices using AWS, Docker, and Kubernetes.
-- Built CI/CD pipelines using GitHub Actions and Jenkins.
-- Implemented observability solutions using Prometheus, Grafana, and ELK.
-- Improved platform reliability through API optimization and performance tuning.
+Enterprise Spring Boot application that manages insurance quotes and policy workflows.
 
-### McKinsey & Company
-**Java Full Stack Developer | Sep 2023 - Oct 2024**
+### Highlights
 
-- Built enterprise web applications using Java, Spring Boot, React, and Angular.
-- Developed secure REST APIs and cloud-native solutions on AWS.
-- Implemented OAuth2, JWT, and Spring Security-based authentication.
-- Optimized PostgreSQL and MySQL databases for performance.
+* Customer Management
+* Quote Processing
+* Policy Workflow
+* Bean Validation
+* Global Exception Handling
+* Swagger Documentation
 
-### Avenir Technologies
-**System Engineer | Dec 2020 - Jul 2022**
+🔗 Repository
 
-- Developed enterprise applications using Java, Spring Boot, Hibernate, and React.
-- Built REST APIs and integrated backend services.
-- Developed secure authentication and authorization solutions.
-- Contributed to AWS deployments and CI/CD initiatives.
+https://github.com/AnjaliBhogireddy/insurance-quote-management-system
 
 ---
 
-## 🎓 Education
+## 🏦 Banking Transaction Management System
 
-**Master of Science in Computer Science**
-Northwest Missouri State University
+Enterprise banking backend application built using Spring Boot and REST APIs.
+
+### Highlights
+
+* Customer Management
+* Account Management
+* Deposit & Withdrawal
+* Fund Transfer
+* Transaction History
+* Bean Validation
+* Global Exception Handling
+* Swagger Documentation
+
+🔗 Repository
+
+https://github.com/AnjaliBhogireddy/banking-transaction-management-system
 
 ---
 
-## 🎯 Current Focus
+## 🛒 E-Commerce Order Management Platform
 
-- Java 17
-- Spring Boot 3
-- Microservices Architecture
-- AWS Cloud
-- Kubernetes
-- Distributed Systems
-- Generative AI Applications
+Enterprise backend application that simulates a real-world e-commerce order processing system.
+
+### Highlights
+
+* Product Management
+* Customer Management
+* Order Placement
+* Inventory Management
+* Order History
+* Bean Validation
+* Global Exception Handling
+* Swagger Documentation
+
+🔗 Repository
+
+https://github.com/AnjaliBhogireddy/ecommerce-order-management-platform
 
 ---
 
-## 📂 Featured Projects
+# 💼 Professional Experience
 
-- Insurance Quote Management System
-- E-Commerce Order Management Platform
-- Healthcare Appointment Booking System
+* **Software Engineer** — Tata Consultancy Services (TCS)
+* **Java Full Stack Developer** — McKinsey & Company
+* **System Engineer** — Avenir Technologies
+
 ---
-⭐ Always interested in building scalable cloud-native applications and solving complex engineering challenges.
+
+# 📈 Currently Learning
+
+* Docker
+* PostgreSQL
+* JWT Authentication
+* AWS Deployment
+* GitHub Actions
+* System Design
+* Kafka
+
+---
+
+# 📫 Connect With Me
+
+* 📧 Email: anjali.bhogireddy@outlook.com
+* 💼 LinkedIn: https://www.linkedin.com/in/anjalibh/
+* 💻 GitHub: https://github.com/AnjaliBhogireddy
+
+---
+
+⭐ Thank you for visiting my GitHub profile. Feel free to explore my repositories, and don't hesitate to connect if you'd like to collaborate or discuss software engineering opportunities.
