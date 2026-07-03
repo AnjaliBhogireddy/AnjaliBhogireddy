@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am a Software Engineer with 5+ years of experien
 
 # 👩‍💻 About Me
 
-* 💼 5+ years of professional software development experience
+* 💼 4+ years of professional software development experience
 * ☕ Specialized in Java, Spring Boot, Microservices, and REST APIs
 * ☁️ Experience building cloud-native applications on AWS
 * ⚛️ Frontend development experience with React
